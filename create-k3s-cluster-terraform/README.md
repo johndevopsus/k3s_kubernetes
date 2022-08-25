@@ -21,8 +21,8 @@ Typically all outbound traffic is allowed.
 
 **Master and Worker scripts are added as userdata to terraform**
 
--master.sh
--wroker.sh
+*master.sh
+*wroker.sh
 
 **End of the task, we will connect to Master node via ssh and run the following command to see the master and worker nodes in the cluster**
 
